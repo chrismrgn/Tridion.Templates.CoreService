@@ -46,5 +46,7 @@ namespace Tridion.Templates.CoreService.Core
             }
         }
 
+
+        //Implement other exposed client methods here
     }
 }
